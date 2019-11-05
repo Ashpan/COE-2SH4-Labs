@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab2/Main/main.c
+stdio.h
+-
+q1.c
+C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab2/Main/q1.c
+q2.c
+C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab2/Main/q2.c
+q3.c
+C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab2/Main/q3.c
+q4.c
+C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab2/Main/q4.c
+q5.c
+C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab2/Main/q5.c
+q6.c
+C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab2/Main/q6.c
+
+C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab2/Main/q1.c
+stdio.h
+-
+math.h
+-
+vector_operations.h
+C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab2/Main/vector_operations.h
+
+C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab2/Main/q2.c
+stdio.h
+-
+math.h
+-
+
+C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab2/Main/q3.c
+stdio.h
+-
+
+C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab2/Main/q4.c
+stdio.h
+-
+
+C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab2/Main/q5.c
+stdio.h
+-
+
+C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab2/Main/q6.c
+stdio.h
+-
+
+C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab2/Main/vector_operations.h
+
