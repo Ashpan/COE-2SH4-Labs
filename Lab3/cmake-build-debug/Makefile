@@ -230,33 +230,6 @@ main.c.s:
 	$(MAKE) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/main.c.s
 .PHONY : main.c.s
 
-matt.obj: matt.c.obj
-
-.PHONY : matt.obj
-
-# target to build an object file
-matt.c.obj:
-	$(MAKE) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/matt.c.obj
-.PHONY : matt.c.obj
-
-matt.i: matt.c.i
-
-.PHONY : matt.i
-
-# target to preprocess a source file
-matt.c.i:
-	$(MAKE) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/matt.c.i
-.PHONY : matt.c.i
-
-matt.s: matt.c.s
-
-.PHONY : matt.s
-
-# target to generate assembly for a file
-matt.c.s:
-	$(MAKE) -f CMakeFiles\Lab3.dir\build.make CMakeFiles/Lab3.dir/matt.c.s
-.PHONY : matt.c.s
-
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -278,9 +251,6 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... matt.obj
-	@echo ... matt.i
-	@echo ... matt.s
 .PHONY : help
 
 

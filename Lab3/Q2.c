@@ -28,8 +28,7 @@ int Q2(){
     compute_final_course_grades(studList, size);
     output_final_course_grades(finalgradeFilename, studList);
     print_list(studList, size);
-    withdraw(990532940, studList, sizePtr);
-    print_list(studList, *sizePtr);
+     print_list(studList, *sizePtr);
     withdraw(4000, studList, sizePtr);
     withdraw(643857392, studList, sizePtr);
     withdraw(432424224, studList, sizePtr);

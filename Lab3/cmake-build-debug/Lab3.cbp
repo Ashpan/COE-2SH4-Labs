@@ -86,9 +86,6 @@
 		<Unit filename="C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab3/main.c">
 			<Option target="Lab3"/>
 		</Unit>
-		<Unit filename="C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab3/matt.c">
-			<Option target="Lab3"/>
-		</Unit>
 		<Unit filename="C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab3/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

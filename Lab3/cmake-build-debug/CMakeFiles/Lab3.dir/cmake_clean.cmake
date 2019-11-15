@@ -3,7 +3,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/Lab3.dir/Q1.c.obj"
   "CMakeFiles/Lab3.dir/Q2.c.obj"
   "CMakeFiles/Lab3.dir/Q3.c.obj"
-  "CMakeFiles/Lab3.dir/matt.c.obj"
   "Lab3.pdb"
   "Lab3.exe"
   "Lab3.exe.manifest"

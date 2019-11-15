@@ -8,7 +8,6 @@ set(CMAKE_DEPENDS_CHECK_C
   "C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab3/Q2.c" "C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab3/cmake-build-debug/CMakeFiles/Lab3.dir/Q2.c.obj"
   "C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab3/Q3.c" "C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab3/cmake-build-debug/CMakeFiles/Lab3.dir/Q3.c.obj"
   "C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab3/main.c" "C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab3/cmake-build-debug/CMakeFiles/Lab3.dir/main.c.obj"
-  "C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab3/matt.c" "C:/Users/Ashpan/Drive/Current/School/Second Year/COMPENG 2SH4/Labs/Lab3/cmake-build-debug/CMakeFiles/Lab3.dir/matt.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

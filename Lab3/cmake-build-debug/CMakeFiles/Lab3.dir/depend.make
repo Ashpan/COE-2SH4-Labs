@@ -7,7 +7,7 @@ CMakeFiles/Lab3.dir/Q2.c.obj: ../Q2.c
 
 CMakeFiles/Lab3.dir/Q3.c.obj: ../Q3.c
 
-CMakeFiles/Lab3.dir/main.c.obj: ../main.c
+CMakeFiles/Lab3.dir/concatenate.c.obj: ../concatenate.c
 
-CMakeFiles/Lab3.dir/matt.c.obj: ../matt.c
+CMakeFiles/Lab3.dir/main.c.obj: ../main.c
 
